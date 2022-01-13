@@ -1,1 +1,1 @@
-# portfolio.shipayo.works
+# shipayo.works
